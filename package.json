@@ -1,0 +1,20 @@
+{
+  "name": "book-of-time",
+  "version": "1.0.0",
+  "description": "book of time",
+  "main": "index.js",
+  "scripts": {
+    "notice": "echo 'please read the [README.md] file.'"
+  },
+  "private": true,
+  "author": "zhanglei_js",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-replace": "^0.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
